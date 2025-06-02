@@ -21,3 +21,5 @@ Recursively visit all neighbors:
 If a neighbor is visiting, a cycle is found.
 If a neighbor is unvisited, continue DFS.
 After visiting all neighbors, mark node as visited (2).
+
+For Question 3 and 4 my knowledge in Android is basic but i will learn that language also.
